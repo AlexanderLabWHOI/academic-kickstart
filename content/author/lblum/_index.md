@@ -46,6 +46,10 @@ interests = [
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/blumlikeplum"
 
 [[social]]
   icon = "github"
