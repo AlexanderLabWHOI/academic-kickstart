@@ -14,7 +14,7 @@ image = "banners/penguin_communication.jpg"
 caption = ""
 +++
 
-I am eager to build a diverse group of researchers who are united in thier interest in microbial oceanography, genomics, and phytoplankton. Please don’t hesitate to get in touch if you are interested in joining the research group!
+I am eager to build a diverse group of researchers who are united by their interest in microbial oceanography, genomics, and phytoplankton. Please do not hesitate to get in touch if you are interested in joining the research group!
 
 ## Undergraduate students
 
