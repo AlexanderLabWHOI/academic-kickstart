@@ -10,7 +10,7 @@ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "banners/YAWH.png"
 caption = ""
 +++
 
@@ -26,4 +26,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 -----
 
-tl;dr: We, in the Alexander Lab, value diversity, equity, and inclusion. In addition to a high standard of research quality, all lab members are expected to uphold a high standard of collegiality and integrity. 
+**tl;dr We, in the Alexander Lab, value diversity, equity, and inclusion. In addition to maintaining a high standard of research quality and ethics, all lab members are expected to uphold a high standard of collegiality and integrity.** 
