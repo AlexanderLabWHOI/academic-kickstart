@@ -21,9 +21,7 @@ bio = "Margaret is a postdoctoral scholar working with Harriet and Mak Saito."
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-	"Microbial interactions"
-	"Symbiosis",
+interests = ["Microbial interactions", "Symbiosis",
   "Plankton Ecology",
   "Biological Oceanography",
   "Bioinformatics"
@@ -31,7 +29,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Postdoc",]
+user_groups = ["Postdocs","Lab Members"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
