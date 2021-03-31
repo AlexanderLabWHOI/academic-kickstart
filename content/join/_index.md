@@ -16,10 +16,6 @@ caption = ""
 
 I am eager to build a diverse group of researchers who are united by their interest in microbial oceanography, genomics, and phytoplankton. Please do not hesitate to get in touch if you are interested in joining the research group!
 
-## Research Assistant
-
-I am currently looking to hire a laboratory technician / research assistant to start in the Spring of 2021. The position will be joint between my lab and [Carolyn Tepolt's lab](https://www2.whoi.edu/site/tepoltlab/) at WHOI. To learn more please see the official job advertisement [here](https://careers-whoi.icims.com/jobs/1395/research-assistant/job?mobile=false&width=1020&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) and my blog post [here](/post/2021-02-hiring/). 
-
 ## Undergraduate students
 
 I can host students through organized programs at WHOI, such as the [Summer Student Fellows (SSF)](https://www.whoi.edu/main/summer-student-fellowship) Program or the [Semester at WHOI (SAW)](http://www.whoi.edu/semester-at-whoi/) Program. Please refer to these websites for more information and feel free to indicate your interest in joining the lab.
