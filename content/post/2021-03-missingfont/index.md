@@ -3,7 +3,7 @@ title = "Fixing my matplotlib font woes"
 subtitle = "Falling back to DejaVu Sans"
 
 # Add a summary to display on homepage (optional).
-summary = "Linux machine font issues"
+summary = "How to install MS core fonts with conda"
 
 date = 2021-03-30T15:25:12-04:00
 draft = false
@@ -30,7 +30,7 @@ categories = ["computation", ]
   focal_point = "Center"
 +++
 
-Over the last few years I have made a transition in my workflow from doing most of my data exploration and plotting on my local machine (a 2016 MacBook laptop) to doing most of my plotting on a remote HPC (check out this [other blog post]({{< relref "post/2019-03-08_jpn_slurm" >}}) for more on that). This workflow is very convenient for many reasons (keeping all files in one location, more extendability and power for my notebooks that my personal laptop can't handle, minimizing file storage on my local machine, etc. etc.).
+Over the last few years I have made a transition in my workflow from doing most of my data exploration and plotting on my local machine (a 2016 MacBook laptop) to doing most of my plotting on a remote HPC (check out this [other blog post]({{< ref "/post/2019-03-08_jpn_slurm" >}}) for more on that). This workflow is very convenient for many reasons (keeping all files in one location, more extensibility and power for my notebooks that my personal laptop can't handle, minimizing file storage on my local machine, etc. etc.).
 
 However, I *could not* get any of my font specifications to work in `matplotlib` (or any dependent programs) in my notebooks that I was running via ssh tunnel. Period.
 
@@ -45,7 +45,7 @@ import matplotlib.pyplot as plt
 plt.rcParams["font.family"] = "sans-serif"
 ```
 
-And also when I modified my `matplotlibrc` file (which you can think of as the `.bashrc` file equivalent in `matplotlib`).
+And also when I modified my `matplotlibrc` file (more on that later).
 
 I figured I was simply doing something wrong and eventually gave up on trying to fix it and just succumbed to my fate of manually changing fonts post-plotting in Adobe Illustrator. I did this for... several years.
 
@@ -53,15 +53,19 @@ And then yesterday, I had an epiphany. My remote HPC probably doesn't have Micro
 
 ![Facepalm](resources/picard-meme-facepalm.jpg "Facepalm")
 
+As [Arianna]({{< ref "/authors/akrinos" >}}) said (slacked, really) when I asked for her comments on this blog post: "This is because unlike an OS that we’re used to working with that’s all set up out-of-the-box, HPC admins don’t really have a need to use anything but some kind of Courier New."
+
+Too true.
+
 And so, I present to you...
 
 ## How to specify fonts in `matplotlib` when you are working on a Linux system:
 
-First off, I highly recommend using `conda` environments for your plotting analysis. Regardless of what you do, the following should work... but I do recommend trying to tidy up your work spaces with `conda`.
+First off, I highly recommend using `conda` environments to manage research computational environments-- it can enhance reproducibility and avoid package conflicts ([more here](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/data-science.html)). For the purposes of this tutorial, I will assume that you have created a `conda` environment that has `matplotlib` installed. For the sake of demonstration my environment is called `general_plotting`.
 
-Conveniently, there is a conda package [`mscorefonts`](https://anaconda.org/conda-forge/mscorefonts) that contains all the "core fonts" that are used for the Web. These fonts include: Andale Mono, Arial, Arial Black, Comic Sans MS, Courier New, Georgia, Impact, Times New Roman, Trebuchet MS, Verdana, and Webdings. While not totally comprehensive, it provides enough font variability for my purposes.
+Conveniently, there is a conda package [`mscorefonts`](https://anaconda.org/conda-forge/mscorefonts) that contains all the "core fonts" that are used for the Web. These fonts include: Andale Mono, Arial, Arial Black, Comic Sans MS, Courier New, Georgia, Impact, Times New Roman, Trebuchet MS, Verdana, and Webdings. While not totally comprehensive, it provides enough font variety for my purposes.
 
-After having activated whatever environment you are using (for the sake of demonstration mine is called `general_plotting`), you can then install the `mscorefonts` package.
+After having activated whatever environment you are using, you can install the `mscorefonts` package.
 
 ```
 conda activate general_plotting
@@ -78,7 +82,25 @@ rm ~/.cache/matplotlib -rf
 
 Now, any adjustments you want to make should be fairly straightforward!
 
-I have found it easiest to directly edit my `matplotlibrc` file as I generally like to use Arial as the default font for all my plots. This file can be a bit buried (especially if you are using `conda` environments). One easy way to find your file is to open a notebook within whatever environment you are using and type the following:
+Now, you should be able to specify a font in your notebook preamble as you wish:
+
+```
+import matplotlib
+matplotlib.rcParams['font.family'] = "sans-serif"
+matplotlib.rcParams['font.sans-serif'] = "Comic Sans MS"
+```
+
+The above would make all plots in the notebook default to Comic Sans.
+
+You should also be able to specify fonts directly on some figure portion (e.g. y-label):
+
+```
+fig, ax = plt.plot(x,y) #some random variables
+ax.set_ylabel("First variable", fontname="Arial", fontsize=12)
+```
+## Setting a default font
+
+I generally like all my plots to look relatively similar. My preferred font is Arial -- it is tidy and generally easy to read. If you want to specify a default font for all your plots without having to specify the `rcParams` in each notebook you can modify the `matplotlibrc` file for your environment. You can think of the `matplotlibrc` as similar to your `.bashrc` -- it controls some of the basic functionality and preferences for your `matplotlib` plotting. This file can be a bit buried (especially when using `conda` environments). One easy way to find your file is to open a notebook within whatever environment you are using and type the following:
 
 ```
 import matplotlib
@@ -100,6 +122,8 @@ As a random aside while you have your `matplotlibrc` file open and handy, you sh
 pdf.fonttype:       42
 ```
 
-And with that, I say to you happy plotting! You can now change your fonts as you please and not be stuck with DejaVu Sans (a font that I really, *really*, **REALLY** dislike).
+You can now change your fonts as you please and not be stuck with DejaVu Sans (a font that I really, *really*, **REALLY** dislike).
 
 Happy plotting!
+
+[Thanks to Arianna for commenting on this blog post for me :)]
