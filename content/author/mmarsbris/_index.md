@@ -70,7 +70,7 @@ user_groups = ["Postdocs","Lab Members"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "https://drive.google.com/file/d/1Pt2nxOGe-tOHc293Q7XByemWvRpVp8T4/view?usp=sharing"
+  link = "https://drive.google.com/file/d/1ffhvWN6le1cie6wq3_za_IrUs-HT-uBE/view?usp=sharing"
 
 [[social]]
   icon = "home"
