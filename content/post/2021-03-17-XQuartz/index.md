@@ -5,7 +5,7 @@ subtitle = "Reuniting with your long-lost IDE."
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2021-03-17T10:11:12-04:00
+date = 2021-06-09T10:11:12-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
