@@ -16,7 +16,7 @@ organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https:
 				  { name = "Massachusetts Institute of Technology", url = "https://mit.edu" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Arianna is a first-year graduate student in the Alexander Lab working with Harriet & Mick Follows at MIT."
+bio = "Arianna is a graduate student in the Alexander Lab working with Harriet & Mick Follows at MIT."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -28,8 +28,7 @@ interests = [
   "Bioinformatics",
   "Modeling",
   "Computational Biology",
-  "Algorithms",
-  "Writing",
+  "Teaching",
   "Outreach"
 ]
 
@@ -81,7 +80,7 @@ user_groups = ["Grad Students","Joint Program Students",]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "https://drive.google.com/file/d/1jlrpkYzNJtu5ZBpRQ7dHQdmBckeOVVvr/view?usp=sharing"
+  link = "https://drive.google.com/file/d/16WQzyWgEAPQgNc77MkJVYG6BDqGohPXn/view?usp=sharing"
 
 [[social]]
   icon = "home"
@@ -102,6 +101,5 @@ of computer science and biology in May 2019. Past research experiences include a
 disease ecology, modeling of potential harmful algal blooms in lake ecosystems using a 1-D hydrodynamic model, MCMC methods for modeling
 atmospheric carbon dioxide concentrations, the physiology of lobster calcification, and individual based modeling of blue crabs in the Chesapeake Bay.
 
-Arianna is excited to get started at the interface of modeling, bioinformatics, and experimental/field work in the Alexander Lab and with the Darwin
-Project at MIT. She hopes to soon gain experience with transcriptomics, spend more time on the HPC, and to nurture her ongoing fascination with
-the phytoplankton and algal blooms.
+Arianna works at the interface of modeling, bioinformatics, and experimental/field work in the Alexander Lab and with the Darwin
+Project at MIT. In particular, she conducts laboratory culture experiments on calcifying phytoplankter Emiliania huxleyi and explores community ecology via metatranscriptomics. Arianna is excited about questions related to microbial diversity, acclimation and adaptation, and global change. She is interested in education and computer/data science literacy. 
