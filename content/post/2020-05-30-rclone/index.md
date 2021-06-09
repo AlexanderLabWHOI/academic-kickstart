@@ -5,7 +5,7 @@ subtitle = "That data organization and integration you've always aspired to."
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2020-05-30T15:25:12-04:00
+date = 2020-06-02T15:25:12-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

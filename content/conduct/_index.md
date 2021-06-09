@@ -10,7 +10,7 @@ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "banners/YAWH.png"
 caption = ""
 +++
 
@@ -23,3 +23,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 Members asked to stop any harassing behavior are expected to comply immediately.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Harriet Alexander immediately. If Harriet is the cause of your concern or you are not comfortable speaking with her please see the [WHOI's Code of Conduct reporting procedure](http://www.whoi.edu/website/institution-policy/index?ct=901&cid=1582#4) for alternative options.   
+
+-----
+
+**tl;dr We, in the Alexander Lab, value diversity, equity, and inclusion. In addition to maintaining a high standard of research quality and ethics, all lab members are expected to uphold a high standard of collegiality and integrity.** 

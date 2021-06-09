@@ -11,6 +11,10 @@ superuser = true
 # Role/position
 role = "Assistant Scientist"
 
+# Role/position
+other = "she/her"
+
+
 # Organizations/Affiliations
 organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https://www.whoi.edu/" } ]
 

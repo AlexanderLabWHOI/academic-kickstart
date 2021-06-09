@@ -33,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
- user_groups = ["Undergraduate Researchers"]
+ user_groups = ["Alumni"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -46,6 +46,10 @@ interests = [
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/blumlikeplum"
 
 [[social]]
   icon = "github"
@@ -55,4 +59,4 @@ interests = [
 
 
 +++
-Laura Blum is an undergraduate Biology major at Middlebury College. In the past she has enjoyed research on developing metabarcoding methods for detecting invasive aquatic plants as well as characterizing reactive oxygen species dynamics on coral reefs.  She is excited to be exploring marine microbial ecology using metagenomics with Harriet Alexander and Maria Pachiadaki at WHOI. She plans to keep studying amazing microbes and to explore the field of origin of life research in the future.
+Laura Blum was an SSF with Harriet Alexander and Maria Pachiadaki and did work looking at the biogeography of nitrogen fixation in particle associated communities. After finishing her undergraduate in Biolog at Middlebury College she began a Masters in Earth Sciences at Dartmouth College in Fall 2020. In the past she has enjoyed research on developing metabarcoding methods for detecting invasive aquatic plants as well as characterizing reactive oxygen species dynamics on coral reefs. She plans to keep studying amazing microbes and to explore the field of origin of life research in the future.
