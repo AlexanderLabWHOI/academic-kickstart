@@ -9,38 +9,34 @@ authors = ["krice"]
 superuser = false
 
 # Role/position
-role = "Postdoc"
+role = "Undergraduate Guest Student"
 
 # Organizations/Affiliations
-organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https://www.whoi.edu/" } ]
+organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https://www.whoi.edu/" },
+{name = "University of Nebraska-Lincoln", url = "https://www.unl.edu" ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Margaret is a postdoctoral scholar working with Harriet and Mak Saito."
+bio = "Kevin is a senior biochemistry major at UNL working in in the Alexander Lab with Harriet & Maggi"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Microbial interactions", "Symbiosis",
-  "Plankton Ecology",
+interests = ["Microbial ecology", "Genomics",
   "Biological Oceanography",
-  "Bioinformatics"
+  "Bioinformatics", "Modeling",
+  "Academic Outreach/Teaching"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Postdocs","Lab Members"]
+user_groups = ["Lab Members"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD"
-  institution = "Okinawa Institute of Science and Technology (OIST)"
-  year = 2020
-
-[[education.courses]]
-  course = "MSc"
-  institution = "Stony Brook University School of Marine and Atmospheric Science"
-  year = 2010
+  course = "BA in systems biochemistry"
+  institution = "University of Nebraska-Lincoln"
+  year = 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,34 +44,9 @@ user_groups = ["Postdocs","Lab Members"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/MargaretBrisbin"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/maggimars"
-
-[[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0001-7756-0039"
-
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "https://drive.google.com/file/d/1Pt2nxOGe-tOHc293Q7XByemWvRpVp8T4/view?usp=sharing"
-
-[[social]]
-  icon = "home"
-  icon_pack = "fas"
-  link = "https://brisbinplankton.wordpress.com/"
+  link = "https://github.com/rondorice"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -84,5 +55,8 @@ user_groups = ["Postdocs","Lab Members"]
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
+
 +++
-Maggi Brisbin is a postdoc at WHOI. She recently completed her PhD at the Okinawa Institute of Science and Technology in Okinawa, Japan. Her thesis work focused on the symbiotic relationship between the haptophyte algae, *Phaeocystis*, and acantharian hosts. Maggi is particularly interested in how interactions between the smallest organisms can affect large scale processes in the ocean. At WHOI she will continue to study microbial interactions and will focus on how bacteria might influence the ecological success of different *Phaeocystis* species in varying environmental conditions.
+Kevin Rice is a senior undergraduate at the University of Nebraska-Lincoln, studying systems biochemistry. He has a particular interest in microbial ecology, bioinformatics, biological oceanography and ecological modeling. His previous research projects include understanding the function of rare taxa in the *Daphnia magna* microbiome, as well as quantifying bacterial DMSP synthesis potential.
+
+Kevin is looking forward to learning more about oceanography and genomics in the Alexander lab! 
