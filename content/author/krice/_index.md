@@ -13,7 +13,7 @@ role = "Undergraduate Guest Student"
 
 # Organizations/Affiliations
 organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https://www.whoi.edu/" },
-{name = "University of Nebraska-Lincoln", url = "https://www.unl.edu" ]
+{name = "University of Nebraska-Lincoln", url = "https://www.unl.edu"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Kevin is a senior biochemistry major at UNL working in in the Alexander Lab with Harriet & Maggi"
@@ -59,4 +59,4 @@ user_groups = ["Lab Members"]
 +++
 Kevin Rice is a senior undergraduate at the University of Nebraska-Lincoln, studying systems biochemistry. He has a particular interest in microbial ecology, bioinformatics, biological oceanography and ecological modeling. His previous research projects include understanding the function of rare taxa in the *Daphnia magna* microbiome, as well as quantifying bacterial DMSP synthesis potential.
 
-Kevin is looking forward to learning more about oceanography and genomics in the Alexander lab! 
+Kevin is looking forward to learning more about oceanography and genomics in the Alexander lab!
