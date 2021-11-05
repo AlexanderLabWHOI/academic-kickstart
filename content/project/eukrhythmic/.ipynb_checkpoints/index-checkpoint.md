@@ -49,5 +49,3 @@ Metatranscriptomics is a useful probe into the members of an ecological communit
 The goal of this project is both to validate and provide support for the efforts of [marine] microbial ecologists that use metatranscriptomics to assess community structure and function, and to provide a tool that researchers can use to assemble their own environmental metatranscriptomes. Some questions associated with this project are:
 1. Can we recover complex communities from shuffled metatranscriptomic sequencing reads? 
 2. Does the choice of assembler affect the quality of the assembly output?
-
-**Project Repository**: https://github.com/AlexanderLabWHOI/eukrhythmic

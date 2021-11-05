@@ -1,11 +1,11 @@
 +++
-title = "EUKulele"
+title = "Thermal Acclimation in Emiliania huxleyi"
 date = 2021-07-02T15:15:49-04:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ['Transcriptomics', 'Genomics', 'Metagenome-Assembled',"MAGs", "Computation"]
+tags = ['Emiliania', 'Transcriptomics', 'Thermal']
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,6 +44,8 @@ url_poster = ""
   focal_point = "Center"
 +++
 
-Easy, accurate classification of the taxonomy of microbial eukaryotes in the environment is a persistent challenge. For metagenomic and metatranscriptomic data, annotation is imperfect, because genomic references for organisms isolated from the environment are lacking. By leveraging experimental transcriptomic references, we have designed a tool to estimate the taxonomy of marine microbial eukaryotes. The tool is a flexible and modular way to leverage the expanding amount of omics data on environmentally-isolated microbial eukaryotes in order to better annotate multi-organism omics datasets (meta-omics). The freely-available tool is implemented as a Python package and installable via both `pip` and `conda`. 
+_Emiliania huxleyi_ is a globally-distributed coccolithophore with a major influence on beogeochemical cycling via the production of large, ephemeral blooms. Because of its global distribution, _Emiliania huxleyi_ has a wide thermal range and apparently a high capacity for short-term acclimation and long-term adaptation to thermal conditions. We are studying this capacity in the lab via both traditional experimental acclimation approaches in semi-continuous culture, and via tracking gene expression changes in response to thermal conditioning in the taxon via transcriptomics. Through this project, we will address the questions:
 
-**Project Repository**: https://github.com/AlexanderLabWHOI/eukulele
+1. Is the growth rate or the response time to change more vulnerable to thermal conditioning?
+2. Does _Emiliania huxleyi_'s capacity to survive in diverse thermal condition increase with exposure time?
+3. What can we learn from more transcriptomic data under precise thermal experimental conditions? Can we apply this to unpacking global 'omics datasets?
