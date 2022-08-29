@@ -32,4 +32,4 @@ If you think that our research sounds exciting and are interested in applying to
 
 ## Postdocs
 
-If you are interested in joining the lab please contact Harriet directly. WHOI has an excellent and competitive [Postdoctoral Scholar Program](https://www.whoi.edu/page.do?pid=8021). Applications are due in September.
+If you are interested in joining the lab please contact Harriet directly. WHOI has an excellent and competitive [Postdoctoral Scholar Program](https://www.whoi.edu/page.do?pid=8021). Applications are due in October.
