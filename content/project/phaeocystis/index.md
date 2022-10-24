@@ -45,3 +45,5 @@ url_poster = ""
 +++
 
 Phytoplankton blooms are central to the ecology of Cape Cod Bay, where historically spring blooms of diatoms have been rapidly grazed, shuttling biomass through the food web. In more recent years, blooms of a haptophyte, _Phaeocystis pouchetii_ have become more frequent in Cape Cod Bay. These organisms produce large gelatinous colonies, which prevents blooms of this haptophyte from being effectively grazed, hence reducing carbon cycling in the upper water column. We are partnering with the Center for Coastal Studies in Provincetown to find and study these blooms.
+
+*Funding from the Simons Foundation*

@@ -1,5 +1,5 @@
 +++
-title = "EUKulele"
+title = "EUKulele: Taxonomic annotation"
 date = 2021-07-02T15:15:49-04:00
 draft = false
 
@@ -44,6 +44,6 @@ url_poster = ""
   focal_point = "Center"
 +++
 
-Easy, accurate classification of the taxonomy of microbial eukaryotes in the environment is a persistent challenge. For metagenomic and metatranscriptomic data, annotation is imperfect, because genomic references for organisms isolated from the environment are lacking. By leveraging experimental transcriptomic references, we have designed a tool to estimate the taxonomy of marine microbial eukaryotes. The tool is a flexible and modular way to leverage the expanding amount of omics data on environmentally-isolated microbial eukaryotes in order to better annotate multi-organism omics datasets (meta-omics). The freely-available tool is implemented as a Python package and installable via both `pip` and `conda`. 
+Easy, accurate classification of the taxonomy of microbial eukaryotes in the environment is a persistent challenge. For metagenomic and metatranscriptomic data, annotation is imperfect, because genomic references for organisms isolated from the environment are lacking. By leveraging experimental transcriptomic references, we have designed a tool to estimate the taxonomy of marine microbial eukaryotes. The tool is a flexible and modular way to leverage the expanding amount of omics data on environmentally-isolated microbial eukaryotes in order to better annotate multi-organism omics datasets (meta-omics). The freely-available tool is implemented as a Python package and installable via both `pip` and `conda`.
 
 **Project Repository**: https://github.com/AlexanderLabWHOI/eukulele

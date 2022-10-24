@@ -1,5 +1,5 @@
 +++
-title = "Recovering Eukaryotic MAGs from Metagenomes"
+title = "EukHeist: Recovering Eukaryotic MAGs from Metagenomes"
 date = 2021-07-02T15:15:49-04:00
 draft = false
 
@@ -11,7 +11,7 @@ tags = ['Metagenome', 'Eukaryote', 'MAGs', 'snakemake', "Tara Oceans"]
 summary = ""
 
 # Slides (optional).
-#   Associate this page with Markdown slides.
+#   Associate this page with Markdown slides.ß
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
@@ -43,9 +43,10 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+Eukaryotic microbes, or protists, are key drivers of marine ecosystems, with roles ranging from primary producers (phytoplankton) to consumers (heterotrophs or mixotrophs). As with their bacteria and archaea, many protists are difficult or impossible to culture. This has limited our ability to directly interrogate their biology in the laboratory and has led us to underestimate their diversity across marine ecosystems. Molecular and genomic approaches, particularly those applied to whole, mixed communities (e.g. metagenomics, metatranscriptomics), have shed light on the ecological roles, evolutionary histories, and physiological capabilities of these organisms.
 
-Coccolithophores, a group of calcifying marine phytoplankton within the phylum Haptophyta, play a significant role in marine biogeochemical cycles, particularly in those of carbon and sulfur. *Emiliania huxleyi* is one of the most abundant extant coccolithophore species in the ocean, typified by its cosmopolitan distribution and ability to form large blooms. Intra-specific variability in physiology (e.g. enzymatic rates, morphology, growth rates) of *E. huxleyi* has long been known in cultured isolates. The capacity for this variability was revealed through the genome sequencing of many *E. huxleyi* strains, the results of which suggested that *E. huxleyi* has a ‘pan genome,’ with gene content varying across strains. Intensive study of another ecologically significant taxa with a pan genome, the cyanobacteria *Prochlorococcus*, has connected the variability of the pan genome to its niche separation and biogeographical distribution. Similar to *Prochlorococcus*, intra-specific genomic variability may underpin the success of *E. huxleyi* across diverse environmental conditions and underlie its observed physiological variability. Here we are combining a series of genomic, computational field surveys, and laboratory-based experiments designed to identify the function of the pan genome in *E. huxleyi* ecology and biogeography. Specifically, we will address the questions:
+EukHeist presents a scalable and reproducible bioinformatic pipeline to facilitate the retrieval of eukaryotic metagenome assembled genomes (MAGs) from mixed metagenomes, called EUKHeist (https://github.com/AlexanderLabWHOI/EUKHeist). EUKHeist streamlines and automates the discovery, recovery, quality assessment, and analysis of eukaryotic metagenome assembled genomes (MAGs) from mixed community metagenomes. EukHeist incorporates taxonoßßmic annotation through EUKulele (https://github.com/AlexanderLabWHOI/EUKulele) as well as scalable structural and functional annotation of coding regions in eukaryotic MAGs with EukMetaSanity (https://github.com/cjneely10/EukMetaSanity).
 
-1. Is there structure to the variable gene content across strains in the pan genome of *E. huxleyi*?
-2. Does the environment select for particular strains of *E. huxleyi* based on the content of the variable portion of the pan genome?
-3. Does the composition of the variable gene set determine strain success under shifting environmental conditions?
+**Project repository:** https://github.com/AlexanderLabWHOI/EUKHeist
+
+*Funding for this project provided by the Simons Foundation and WHOI*
