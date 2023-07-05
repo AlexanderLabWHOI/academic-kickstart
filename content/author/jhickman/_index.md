@@ -16,7 +16,7 @@ organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https:
 				  { name = "Massachusetts Institute of Technology", url = "https://mit.edu" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Arianna is a graduate student in the Alexander Lab working with Harriet & Mick Follows at MIT."
+bio = "Jo is a Ph.D. student in the Alexander Lab."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jhickman@mit.edu"
