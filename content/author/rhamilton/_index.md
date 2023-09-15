@@ -15,7 +15,7 @@ role = "Research Assistant III"
 organizations = [ { name = "Woods Hole Oceanographic Institution", url = "https://www.whoi.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Rayna is Research Assistant III working with the Alexander, Tepolt and Pachiadaki labs"
+bio = "Rayna is a Research Assistant III working with the Alexander, Tepolt and Pachiadaki labs"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "rayna.hamilton@whoi.edu"
