@@ -32,7 +32,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Lab Members"]
+user_groups = ["Alumni"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -65,6 +65,10 @@ user_groups = ["Lab Members"]
 #   link = "files/cv.pdf"
 
 +++
+**Celeste is now an Associate Computational Biologist at the Broad Institute.** 
+
+---
+
 Celeste Nobrega is an undergraduate student in the class of 2022 at Wheaton College. She is working towards a degree in Bioinformatics, and is excited about her coursework including genomics, biology, ecology, statistics, and computer science. 
 Past research experiences in 2020 include studying the effects of chronic cortisol exposure in zebrafish embryos where she  focused my project on the response in gene expression to different cortisol treatments and collection times. In 2019, she worked on a software development and research team for a webtool called Lexos.
 

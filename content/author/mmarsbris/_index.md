@@ -29,7 +29,7 @@ interests = ["Microbial interactions", "Symbiosis",
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Postdocs","Lab Members"]
+user_groups = ["Postdocs","Alumni"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -85,4 +85,7 @@ user_groups = ["Postdocs","Lab Members"]
 #   link = "files/cv.pdf"
 
 +++
+**Maggi is now an Assistant Professor at the University of South Florida! Checkout her lab: [Microbial Interactions in a Changing Ocean (MICO) Lab](https://micolab-usf.github.io/home/).**
+
+---   
 Maggi Brisbin is a postdoc at WHOI. She recently completed her PhD at the Okinawa Institute of Science and Technology in Okinawa, Japan. Her thesis work focused on the symbiotic relationship between the haptophyte algae, *Phaeocystis*, and acantharian hosts. Maggi is particularly interested in how interactions between the smallest organisms can affect large scale processes in the ocean. At WHOI she will continue to study microbial interactions and will focus on how bacteria might influence the ecological success of different *Phaeocystis* species in varying environmental conditions.

@@ -1,7 +1,7 @@
 +++
 title =  'EUKulele: Taxonomic annotation of the unsung eukaryotic microbes'
 date =  2021-01-01
-authors = ["*Arianna I Krinos §*", "Sarah K Hu", "Natalie R Cohen","**Harriet Alexander**"]
+authors = ["*Arianna I Krinos* §", "Sarah K Hu", "Natalie R Cohen","**Harriet Alexander**"]
 publication_types = [ "2"]
 abstract =  ''
 featured =  "true"

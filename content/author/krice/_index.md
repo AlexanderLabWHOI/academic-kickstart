@@ -30,7 +30,7 @@ interests = ["Microbial ecology", "Genomics",
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Lab Members"]
+user_groups = ["Alumni"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -57,6 +57,9 @@ user_groups = ["Lab Members"]
 
 
 +++
+**Kevin is now a graduate student in Mirobiology at Oregon State University.**
+
+--- 
 Kevin Rice is a senior undergraduate at the University of Nebraska-Lincoln, studying systems biochemistry. He has a particular interest in microbial ecology, bioinformatics, biological oceanography and ecological modeling. His previous research projects include understanding the function of rare taxa in the *Daphnia magna* microbiome, as well as quantifying bacterial DMSP synthesis potential.
 
 Kevin is looking forward to learning more about oceanography and genomics in the Alexander lab!

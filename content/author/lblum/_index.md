@@ -59,4 +59,7 @@ interests = [
 
 
 +++
+**Laura went on to get her Master's in Earth Science at Dartmouth and is now a Bioinformatician at New England Biolabs.**
+
+---
 Laura Blum was an SSF with Harriet Alexander and Maria Pachiadaki and did work looking at the biogeography of nitrogen fixation in particle associated communities. After finishing her undergraduate in Biolog at Middlebury College she began a Masters in Earth Sciences at Dartmouth College in Fall 2020. In the past she has enjoyed research on developing metabarcoding methods for detecting invasive aquatic plants as well as characterizing reactive oxygen species dynamics on coral reefs. She plans to keep studying amazing microbes and to explore the field of origin of life research in the future.

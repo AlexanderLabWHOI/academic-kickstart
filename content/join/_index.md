@@ -22,6 +22,8 @@ I can host students through organized programs at WHOI, such as the [Summer Stud
 
 ## Graduate students
 
+**I am looking to recruit a graduate student to start in Fall 2023!** 
+
 If you are interested in phytoplankton ecology or working on computational approaches to enable our understanding of marine microbial systems, you may be a good fit in the lab. Generally, I look for students who have a background in Biology, Chemistry, Computational Biology, or a closely related areas and have taken classes that might include: genetics, genomics, computational biology, biochemistry, cell biology, molecular biology, genetics, statistics, calculus, organic chemistry, and/or computer science. However, please don't let this list stop you from contacting me!  
 
 Prospective graduate students should apply to the [MIT-WHOI Joint Program](http://mit.whoi.edu/) in Biological Oceanography.
@@ -30,4 +32,4 @@ If you think that our research sounds exciting and are interested in applying to
 
 ## Postdocs
 
-If you are interested in joining the lab please contact Harriet directly. WHOI has an excellent and competitive [Postdoctoral Scholar Program](https://www.whoi.edu/page.do?pid=8021). Applications are due in September.
+If you are interested in joining the lab please contact Harriet directly. WHOI has an excellent and competitive [Postdoctoral Scholar Program](https://www.whoi.edu/page.do?pid=8021). Applications are due in October.
