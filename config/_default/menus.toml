@@ -20,7 +20,13 @@
 [[main]]
   name = "Posts"
   url = "/post"
+  weight = 3
+
+[[main]]
+  name = "Photos"
+  url = "/photos"
   weight = 4
+
 
   [[main]]
     name = "Conduct"
