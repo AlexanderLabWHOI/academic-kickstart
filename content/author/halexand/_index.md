@@ -9,7 +9,7 @@ authors = ["halexand"]
 superuser = true
 
 # Role/position
-role = "Assistant Scientist"
+role = "Associate Scientist"
 
 # Role/position
 other = "she/her"
