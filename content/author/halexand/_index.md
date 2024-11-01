@@ -74,7 +74,7 @@ user_groups = ["Principal Investigator",]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "https://github.com/halexand/Alexander_CV/blob/master/Alexander_CurrentCV.pdf"
+  link = "https://halexand.github.io/Alexander_CV/Alexander_CurrentCV.pdf"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -85,6 +85,6 @@ user_groups = ["Principal Investigator",]
 #   link = "files/cv.pdf"
 
 +++
-Harriet Alexander is an Assistant Scientist in the Biology Department at the Woods Hole Oceanographic Institution. Her lab works to better characterize the interplay of physiological ecology and diversity in the ocean with a focus on eukaryotic plankton. Much of her research has leveraged meta-omic data to derive insights into the diversity and function of these ecosystems.
+Harriet Alexander is an Associate Scientist in the Biology Department at the Woods Hole Oceanographic Institution. Her lab works to better characterize the interplay of physiological ecology and diversity in the ocean with a focus on eukaryotic plankton. Much of her research has leveraged meta-omic data to derive insights into the diversity and function of these ecosystems.
 
 Before starting at a lab at WHOI in 2018, Harriet earned her Ph.D. in Biological Oceanography from the MIT-WHOI Joint Program with Sonya Dyhrman in 2016 and moved to University of California Davis where she worked as a postdoc in the Data Intensive Biology Lab with Titus Brown from 2016-2018.
