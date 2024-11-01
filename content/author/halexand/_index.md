@@ -9,7 +9,7 @@ authors = ["halexand"]
 superuser = true
 
 # Role/position
-role = "Associate Scientist"
+role = "Assistant Scientist II"
 
 # Role/position
 other = "she/her"
@@ -33,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Principal Investigator",]
+user_groups = ["Lab Members",]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
