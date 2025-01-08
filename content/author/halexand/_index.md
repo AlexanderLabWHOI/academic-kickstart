@@ -52,9 +52,9 @@ user_groups = ["Lab Members",]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "twitter"
+  icon = "bluesky"
   icon_pack = "fab"
-  link = "https://twitter.com/nekton4plankton"
+  link = "https://bsky.app/profile/nekton4plankton.bsky.social"
 
 [[social]]
   icon = "google-scholar"

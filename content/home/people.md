@@ -20,6 +20,8 @@ user_groups = ["Lab Members",]
 ## Alumni
 #### Postdocs
 [Margaret Mars Brisbin](authors/mmarsbris/) (2020-2023) *Now: Assistant Professor at Univesrity of South Florida-- [MICO lab](https://micolab-usf.github.io/home/)*   
+#### Graduate Students
+[Arianna Krinos](authors/akrinos/) (2019-2024) *Now: C-Comp Postdoctoral Fellow at Brown University -- [Arianna's website](https://akrinos.github.io/)*
 #### Undergraduates
 [Abigail McGarrigle](authors/amcg/), CC-Crew (2024)  
 [Alese Schofield](authors/aschofield/), CC-Crew (2022)  

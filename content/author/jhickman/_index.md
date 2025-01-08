@@ -59,9 +59,9 @@ user_groups = ["Grad Students","Joint Program Students","Lab Members"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "twitter"
+  icon = "bluesky"
   icon_pack = "fab"
-  link = "https://twitter.com/KJEHickman"
+  link = "https://bsky.app/profile/kjehickman.bsky.social"
 
 [[social]]
   icon = "google-scholar"
