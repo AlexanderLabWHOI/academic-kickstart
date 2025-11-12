@@ -33,6 +33,56 @@ subtitle = ""
 
 [[gallery_item]]
   album = "gallery"
+  image = "5251b147-f37f-4598-b5a5-c6fe912c35e2.jpg"
+  caption = "Miah working in a glove box during the MBL Microbial Ecology course"
+
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_1534.jpg"
+  caption = "Harriet talk at AtlantECO workshop"
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_7882.jpg"
+  caption = "Jo talk at Aquatic Sciences Meeting"
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_5606.jpg"
+  caption = "Shop party 2024"
+
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_2948.jpg"
+  caption = "2024 Pumpkin Carving"
+
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_0521.jpg"
+  caption ="Arianna's hooding by Mick"
+
+ 
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_0337.jpg"
+  caption = "Trivia night"
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_1646.jpg"
+  caption = "Summer poster presentation by Abby" 
+
+[[gallery_item]]
+  album = "gallery"
+  image = "IMG_4324.jpg"
+  caption = "Generals prep"    
+
+ 
+[[gallery_item]]
+  album = "gallery"
   image = "Fall2023.jpg"
   caption = "Lab Fall 2023"
 

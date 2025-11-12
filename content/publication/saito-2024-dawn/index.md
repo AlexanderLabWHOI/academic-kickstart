@@ -7,7 +7,7 @@ abstract = "Biogeochemical cycles constitute Earth’s life support system and d
 featured = false
 publication = "*Oceanography*"
 url_pdf = "https://www.jstor.org/stable/27309831"
-doi = ""
+doi = "https://doi.org/10.5670/oceanog.2024.417"
 
 +++
 

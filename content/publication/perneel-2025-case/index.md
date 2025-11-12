@@ -5,7 +5,9 @@ authors = ["Michiel Perneel", "**Harriet Alexander**", "Pascal I Hablützel", "S
 publication_types = ["2"]
 abstract = "Metatranscriptomics is widely used to study the functional dynamics of microbial communities in their natural environment [1–6]. Changes in gene expression in microbial communities can be subdivided in two main categories: per capita changes at the cellular or organismal scale in response to developmental cues and environmental signals, and changes mediated by population dynamics and taxonomic shifts. In this perspective, we argue that understanding the effects of population dynamics on gene expression patterns benefits from the estimation of absolute transcript abundances, augmenting the relative expression measures that are commonly used. We use a recent study on the seasonal dynamics of metabolic activity and species turnover of microeukaryotic surface plankton in the southern North Sea as an example [7]."
 featured = false
+tags = ["metatranscriptomics"]
 publication = "*The ISME Journal*"
 doi = "10.1093/ismejo/wraf188"
+url_pdf= "https://github.com/AlexanderLabWHOI/academic-kickstart/raw/master/static/pubs/2025-perneel.pdf"
 +++
 
