@@ -9,7 +9,7 @@ authors = ["sshapiro"]
 superuser = false
 
 # Role/position
-role = "Research Assistant"
+role = "Research Assistant III"
 
 # Organizations/Affiliations
 organizations = [ { name = "Woods Hole Oceanographic Institution", url = "whoi.edu" } ]
