@@ -3,6 +3,11 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 source ~/.bashrc
 
+# Show which hugo binary/version is actually about to run (helps catch
+# cases where hvm's pinned version isn't picked up in this shell).
+echo "Using: $(which hugo)"
+hugo version
+
 # Build the project.
 hugo || exit 1 # if using a theme, replace with `hugo -t <YOURTHEME>`
 
